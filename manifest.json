@@ -1,6 +1,6 @@
 ﻿{
-  "name": "煞氣轉換器",
-  "version": "0.4",
+  "name": "煞氣轉換器 Fisher Ver.",
+  "version": "1.0",
   "permissions": [
     "storage", "tabs"
   ],
@@ -20,7 +20,7 @@
 
   "browser_action": {
     "default_icon": "icon-green.png",
-    "default_title": "Click here!"
+    "default_title": "Click to Enable"
   },
   "manifest_version": 2
 }

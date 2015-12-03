@@ -9,7 +9,6 @@ function setStatus(isEnabled){
 }
 
 function init(){
-	//alert('init!');
 	chrome.storage.sync.get('status', function(items){
 		if(items['status']==undefined){
 			globalIsEnabled = true;
